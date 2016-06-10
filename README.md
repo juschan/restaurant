@@ -1,7 +1,7 @@
 # Restaurant Ordering System
 
 ###Description
-This is a console-based ordering menu ordering programme. 
+This is a console-based ordering menu ordering programme. This was done as part of pair-programming with Isabella and Allan. 
 
 
 ###Technology
